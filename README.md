@@ -13,7 +13,7 @@ The anonymized data are openly shared via the [Inter-university Consortium for P
 
 ## Summary of Activities
 
-In this analysis, we:
+In this analysis, I:
 - **Examined Network Structure**: Calculated global metrics (e.g., density, average degree, average path length, transitivity, and reciprocity).  
 - **Compared with Random Baselines**: Selected a suitable random network model, highlighting how the empirical networks deviate from random structures.  
 - **Explored Centralities**: Investigated in-degree and other centrality measures (e.g., betweenness, eigenvector) to identify “influential” students and track their positions over time.  
